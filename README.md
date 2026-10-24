@@ -50,7 +50,7 @@ Soy desarrollador de software y me apasiona crear aplicaciones web útiles, orde
 ### 🚀 Proyectos destacados
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
-| [Pokebank](https://github.com/eduardzsosa72/Proyecto-de-c-tedra-lenguaje-interpretado-al-cliente)) | Pokebank| javaScript  |)
+| [Pokebank](https://github.com/eduardzsosa72/Proyecto-de-c-tedra-lenguaje-interpretado-al-cliente) | Pokebank| javaScript  |)
 | [biblioteca-en-ASP.NET](https://github.com/eduardzsosa72/biblioteca-en-ASP.NET) | Sistema de biblioteca | ASP.NET |
 | [sistema_de_transporte](https://github.com/eduardzsosa72/sistema_de_transporte) | Sistema de transporte | C# |
 | [SistemaReportesCiudadanos](https://github.com/eduardzsosa72/SistemaReportesCiudadanos) | Reportes ciudadanos | HTML · JS |
