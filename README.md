@@ -6,14 +6,15 @@
 </h1>
 
 <a href="https://github.com/eduardzsosa72">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&vCenter=true&width=440&lines=Desarrollador+de+software;C%23+%7C+ASP.NET+%7C+JavaScript;Coder+%26+writer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&vCenter=true&width=440&lines=Desarrollador+de+software;Python+%7C+C%23+%7C+JavaScript;Coder+%26+writer" alt="Typing SVG" />
 </a>
 
 <p>
 Soy desarrollador de software y me apasiona crear aplicaciones web útiles, ordenadas y fáciles de usar.
 </p>
 
-- 👨‍💻 Actualmente trabajo con **C#**, **ASP.NET (Razor)** y **JavaScript**.
+- 🐍 Actualmente estoy trabajando con **Python**.
+- 👨‍💻 También trabajo con **C#**, **ASP.NET (Razor)** y **JavaScript**.
 - 📚 Estoy aprendiendo más sobre desarrollo **Frontend** y **Backend**.
 - 🎯 Metas: seguir creciendo como desarrollador y construir proyectos de calidad.
 - ✍️ Además de programar, me gusta escribir.
@@ -29,6 +30,7 @@ Soy desarrollador de software y me apasiona crear aplicaciones web útiles, orde
 </p>
 
 ### 🛠 &nbsp;Tecnologías con las que trabajo
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
